@@ -1,0 +1,8 @@
+= Calculator
+
+This is an iOS swift app for practice.
+Trying to make a native calculator.
+
+== Screenshot
+
+image::Simulator Screen Shot - iPhone 12 Pro.jpg[]
